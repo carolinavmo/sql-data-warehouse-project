@@ -1,7 +1,3 @@
-# sql-data-warehouse-project
-Building a moder data wharehouse using SQL Server
-
-
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
@@ -52,16 +48,6 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
-
-### BI: Analytics & Reporting (Data Analysis)
-
-#### Objective
-Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
-
-```
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
